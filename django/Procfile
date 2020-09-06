@@ -1,0 +1,1 @@
+web: gunicorn InMin_back.wsgi --log-file -
